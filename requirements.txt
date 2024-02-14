@@ -1,0 +1,8 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+pylint
+python-dotenv==1.0.0
+django-filter
+pandas
+openpyxl

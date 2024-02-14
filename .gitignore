@@ -1,0 +1,5 @@
+.vscode
+/alkara/__pycache__
+/tickets/__pycache__
+/tickets/migrations/__pycache__
+
